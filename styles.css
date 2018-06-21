@@ -1,0 +1,29 @@
+.images
+{
+	height:400px;
+	width :400px;
+	border : 1px solid black;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+	float : left;
+	margin : 20px;
+	padding : 20px;
+}
+
+.centered {
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+	color : darkblue;
+}
+
+.images:hover
+{
+	height:500px;
+	width :500px;
+}
