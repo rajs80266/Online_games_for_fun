@@ -11,7 +11,7 @@
     color: white;
 	float : left;
 	margin : 20px;
-	padding : 20px;
+	padding : 10px;
 }
 
 .centered {
@@ -20,10 +20,4 @@
     left: 50%;
     transform: translate(-50%, -50%);
 	color : darkblue;
-}
-
-.images:hover
-{
-	height:500px;
-	width :500px;
 }
